@@ -1,0 +1,2 @@
+# Value_Iteration
+To find the optimal policy of a 5X5 grid with 10% blockages, value iteration is been used . Value iteration is the special case for Policy Iteration. When the process of policy evaluation is stopped after one step. For value Iteration, Bellman Optimal Equation is used. We start off with some random Value Function (say zero) and then we iterate this process using Bellman Optimal Equation.
